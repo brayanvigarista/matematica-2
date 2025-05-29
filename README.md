@@ -1,6 +1,6 @@
 # matematica-2
 </p>
-##diretorio da disciplina de matematica 2 - programação 1
+## diretorio da disciplina de matematica 2 - programação 1
 neste espaço vamos disnibilizar e organisar conteúdo referê
 # CONTEÚDO
 
